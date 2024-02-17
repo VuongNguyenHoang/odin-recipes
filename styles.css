@@ -11,3 +11,19 @@ h1{
     
 }
 
+.container{
+    background-color: #F0E68C	;
+    margin: 16px auto;
+    border: 8px solid #F0E68C	;
+}
+
+.recipe{
+  background: #C5B358;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  padding: 16px 8px;
+  text-align: center;
+  font-weight: bold;
+}
+
+
